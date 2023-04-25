@@ -1,9 +1,10 @@
-// import {Profile} from './Profile';
-// // import user from '../configs.user';
+import {Profile} from './Profile';
+import user from '../configs/user';
 
 // import { Container } from './Container';
 
 // import {TransactionHistory} from './TransactionHistory';
+
 
 // import {Statistics} from './Statistics';
 
