@@ -1,7 +1,6 @@
 import { Container } from './Container';
-
-import { Profile } from './Profile';
-import user from '../configs/user';
+import { Profile } from './Profile'; 
+import user from '../configs/user'; 
 
 import { Statistics } from './Statistics';
 import data from '../configs/data';
